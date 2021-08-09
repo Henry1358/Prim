@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'co.za.Prim.WinelandsGrocery',
-  appName: 'Website to App',
+  appName: 'Prim Winelands Grocery',
   webDir: 'www',
   bundledWebRuntime: false,
 };
